@@ -116,7 +116,7 @@ $(function() {
                 secondFeedContent = $('.entry').text();
                 expect(firstFeedContent).not.toEqual(secondFeedContent);
                 done();
-                console.log(firstFeedContent +'. != '+ newContint);
+                // console.log(firstFeedContent +'. != '+ newContint);
             });
         });
     });

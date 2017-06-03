@@ -2,7 +2,10 @@
 
 to test this project, you have to visit live version of project here 
 _`https://almunea.github.io/frontend-feedreader
-`_
+`_ 
+
+or you can download project and unzip the file, 
+then double click on index.html to open it in your browser.
 
 ##i changed
 
